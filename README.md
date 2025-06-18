@@ -14,7 +14,8 @@ Este projeto consulta a API do OpenWeatherMap para obter a previsão do tempo de
 2. Instale as dependências:
 ```bash
 pip install -r requirements.txt
+```
 
-### 🔐 Configuração
+## 🔐 Configuração
 
 Crie um arquivo `.env` com o seguinte conteúdo:
